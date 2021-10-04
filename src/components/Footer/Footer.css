@@ -1,0 +1,23 @@
+.footer {
+  padding: 50px 0 10px;
+  background-color: lightslategray;
+  color: white;
+  text-align: center;
+}
+.footer-text {
+  color: white;
+  margin-right: 10px;
+  padding: 10px 5px;
+  text-decoration: none;
+}
+.footer-text:hover {
+  color: rgb(0, 28, 80);
+}
+.attribute {
+  text-align: right;
+  padding-right: 10px;
+}
+.attribute a {
+  color: black;
+  text-decoration: none;
+}

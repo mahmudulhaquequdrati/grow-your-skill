@@ -1,0 +1,14 @@
+.contact-img {
+  width: 350px;
+}
+.contact-img-div {
+  display: flex;
+  justify-content: center;
+}
+.form {
+  width: 70%;
+  margin-top: 30px;
+}
+.contact-btn {
+  padding: 10px 20px;
+}

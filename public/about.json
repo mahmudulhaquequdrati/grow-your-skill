@@ -1,0 +1,20 @@
+[
+  {
+    "key": "1",
+    "title": "Top Class Courses",
+    "description": "we have top class courses so that you can start your carrer with us. we are friendly and helpful for the noobs.",
+    "img": "https://cdn-icons-png.flaticon.com/128/1851/1851036.png"
+  },
+  {
+    "key": "2",
+    "title": "Best Trainer",
+    "description": "You can not gain anything without best trainer thats why we choose our best trainer for you. so start today for your career.",
+    "img": "https://cdn-icons-png.flaticon.com/128/1436/1436716.png"
+  },
+  {
+    "key": "3",
+    "title": "High Class Support",
+    "description": "Noobs are always got stuck, because that they are new but our support is very friendly. why you are waiting for.",
+    "img": "https://cdn-icons-png.flaticon.com/128/2625/2625184.png"
+  }
+]

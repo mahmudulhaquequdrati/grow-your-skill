@@ -1,0 +1,16 @@
+.nav-bg {
+  background-color: lightskyblue;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.header-nav {
+  color: black;
+  text-decoration: none;
+  margin-right: 20px;
+}
+.header-nav:hover {
+  color: rgb(49, 44, 44);
+}

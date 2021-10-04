@@ -1,0 +1,38 @@
+.home-container {
+  display: flex;
+  background-color: rgba(180, 211, 230, 0.986);
+  padding: 20px 0px;
+}
+.home-texts {
+  width: 50%;
+  margin: auto 10%;
+}
+.home-p {
+  background-color: white;
+  border-radius: 20px;
+  border: 1px solid gray;
+  width: 170px;
+  padding: 5px 0px;
+  text-align: center;
+  box-shadow: 5px 5px 5px gray;
+}
+
+span {
+  color: blue;
+}
+.course-btn {
+  /* margin-top: 20px; */
+  background-color: blue;
+  border-radius: 20px;
+  border: none;
+  text-decoration: none;
+  color: white;
+  padding: 10px 30px;
+}
+.btn {
+  margin-top: 20px;
+  padding: 0px !important;
+}
+.btn:hover .course-btn {
+  color: white;
+}
