@@ -12,8 +12,8 @@ const About = () => {
   }, []);
 
   return (
-    <div className="about-container p-4">
-      <Row className="gy-4 p-4 flex-nowrap">
+    <div className="p-4">
+      <Row className="gy-4 p-4">
         {about.map((ab) => (
           <SingleAbout ab={ab} key={ab.key}></SingleAbout>
         ))}

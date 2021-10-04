@@ -1,0 +1,50 @@
+[
+  {
+    "key": 1,
+    "img": "https://image.freepik.com/free-vector/web-development-composition_1284-4532.jpg",
+    "name": "Web Development",
+    "price": 99
+  },
+  {
+    "key": 2,
+    "img": "https://img.freepik.com/free-vector/flat-cms-illustration_23-2148849835.jpg?size=338&ext=jpg",
+    "name": "Web-App Design",
+    "price": 80
+  },
+  {
+    "key": 3,
+    "img": "https://img.freepik.com/free-vector/app-development-concept-with-programming-languages_23-2148688949.jpg?size=338&ext=jpg",
+    "name": "App Development",
+    "price": 92
+  },
+  {
+    "key": 4,
+    "img": "https://img.freepik.com/free-vector/mobile-marketing-concept-illustration_114360-1497.jpg?size=338&ext=jpg",
+    "name": "Digital Marketing",
+    "price": 75
+  },
+  {
+    "key": 5,
+    "img": "https://img.freepik.com/free-vector/flat-world-graphics-day-illustration_23-2148886889.jpg?size=338&ext=jpg",
+    "name": "Graphics Design",
+    "price": 90
+  },
+  {
+    "key": 6,
+    "img": "https://img.freepik.com/free-vector/webinar-concept-illustration_114360-4764.jpg?size=338&ext=jpg",
+    "name": "Video Editing",
+    "price": 95
+  },
+  {
+    "key": 7,
+    "img": "https://img.freepik.com/free-vector/cyber-security-concept_23-2148530842.jpg?size=338&ext=jpg",
+    "name": "Cyber Security",
+    "price": 85
+  },
+  {
+    "key": 8,
+    "img": "https://image.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg",
+    "name": "Python",
+    "price": 91
+  }
+]

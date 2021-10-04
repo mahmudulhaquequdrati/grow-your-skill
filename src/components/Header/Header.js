@@ -1,4 +1,3 @@
-// import { Button } from "react-bootstrap";
 import React from "react";
 import { Container, Nav, Navbar } from "react-bootstrap";
 import img from "../../images/logo.png";
