@@ -2,4 +2,5 @@
 
 **_ this website was build by react
 _** you can purchase online course from here
-\*\*\* build your skill today
+\next
+build your skill today
