@@ -57,7 +57,7 @@ const Home = () => {
         </div>
         {/* services result */}
         <div className="px-4">
-          <Row className="g-0 ">
+          <Row className="g-0">
             {service.slice(0, 4).map((singleService) => (
               <SingleServiceHome
                 singleService={singleService}
